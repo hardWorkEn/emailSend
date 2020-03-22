@@ -1,0 +1,9 @@
+##QQ��������
+spring:
+  mail:
+    host: smtp.qq.com                   #�����ʼ�������
+    username: 1312626670@qq.com         #�����ʼ��������ַ
+    password: bovwzekwoqhrbabb          #��Ȩ��
+    properties.mail.smtp.port: 587      #�˿ں�465��587
+    from: 1312626670@qq.com             #�����ʼ��ĵ�ַ
+
